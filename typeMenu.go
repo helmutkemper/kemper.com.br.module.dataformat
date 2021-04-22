@@ -1,7 +1,7 @@
 package dataformat
 
 import (
-	"github.com/helmutkemper/kemper.com.br/util"
+	"github.com/helmutkemper/util"
 	"go.mongodb.org/mongo-driver/bson"
 	"reflect"
 )
